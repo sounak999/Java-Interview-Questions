@@ -110,9 +110,7 @@ public final class Student {
         return new Date(dateOfBirth.getTime());
     }
 }
-
-
----
+```
 
 ## Q10: What is a Singleton class in Java? How to create one?
 
